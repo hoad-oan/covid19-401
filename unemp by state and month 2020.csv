@@ -1,0 +1,649 @@
+﻿State,Year,Month,Unemployment rate
+Alabama,2020,1/1/20,2.7
+Alabama,2020,2/1/20,2.6
+Alabama,2020,3/1/20,2.6
+Alabama,2020,4/1/20,13.2
+Alabama,2020,5/1/20,7.9
+Alabama,2020,6/1/20,7.7
+Alabama,2020,7/1/20,7.4
+Alabama,2020,8/1/20,7.1
+Alabama,2020,9/1/20,6.7
+Alabama,2020,10/1/20,4.7
+Alabama,2020,11/1/20,4.7
+Alabama,2020,12/1/20,4.7
+Alaska,2020,1/1/20,5
+Alaska,2020,2/1/20,5.1
+Alaska,2020,3/1/20,5.1
+Alaska,2020,4/1/20,11.8
+Alaska,2020,5/1/20,11.6
+Alaska,2020,6/1/20,11.3
+Alaska,2020,7/1/20,11
+Alaska,2020,8/1/20,7.2
+Alaska,2020,9/1/20,7
+Alaska,2020,10/1/20,6.5
+Alaska,2020,11/1/20,6.5
+Alaska,2020,12/1/20,6.5
+Arizona,2020,1/1/20,4.8
+Arizona,2020,2/1/20,4.9
+Arizona,2020,3/1/20,5
+Arizona,2020,4/1/20,14.2
+Arizona,2020,5/1/20,10.6
+Arizona,2020,6/1/20,10.7
+Arizona,2020,7/1/20,10.4
+Arizona,2020,8/1/20,7
+Arizona,2020,9/1/20,6.9
+Arizona,2020,10/1/20,6.8
+Arizona,2020,11/1/20,6.8
+Arizona,2020,12/1/20,6.8
+Arkansas,2020,1/1/20,3.7
+Arkansas,2020,2/1/20,3.8
+Arkansas,2020,3/1/20,3.9
+Arkansas,2020,4/1/20,10
+Arkansas,2020,5/1/20,8.5
+Arkansas,2020,6/1/20,7.8
+Arkansas,2020,7/1/20,7.1
+Arkansas,2020,8/1/20,6.5
+Arkansas,2020,9/1/20,5.9
+Arkansas,2020,10/1/20,5.6
+Arkansas,2020,11/1/20,5.3
+Arkansas,2020,12/1/20,4.9
+California,2020,1/1/20,4.2
+California,2020,2/1/20,4.3
+California,2020,3/1/20,4.5
+California,2020,4/1/20,16
+California,2020,5/1/20,15.6
+California,2020,6/1/20,14.1
+California,2020,7/1/20,13.2
+California,2020,8/1/20,12.3
+California,2020,9/1/20,10.6
+California,2020,10/1/20,9.8
+California,2020,11/1/20,8.7
+California,2020,12/1/20,9.3
+Colorado,2020,1/1/20,2.7
+Colorado,2020,2/1/20,2.8
+Colorado,2020,3/1/20,4.7
+Colorado,2020,4/1/20,12.1
+Colorado,2020,5/1/20,11.6
+Colorado,2020,6/1/20,11.3
+Colorado,2020,7/1/20,7.4
+Colorado,2020,8/1/20,7.1
+Colorado,2020,9/1/20,7
+Colorado,2020,10/1/20,6.9
+Colorado,2020,11/1/20,6.9
+Colorado,2020,12/1/20,6.9
+Connecticut,2020,1/1/20,3.7
+Connecticut,2020,2/1/20,3.7
+Connecticut,2020,3/1/20,3.8
+Connecticut,2020,4/1/20,8.6
+Connecticut,2020,5/1/20,11.4
+Connecticut,2020,6/1/20,11.4
+Connecticut,2020,7/1/20,11.3
+Connecticut,2020,8/1/20,8.4
+Connecticut,2020,9/1/20,8.3
+Connecticut,2020,10/1/20,8.2
+Connecticut,2020,11/1/20,8.2
+Connecticut,2020,12/1/20,8.2
+Delaware,2020,1/1/20,4.3
+Delaware,2020,2/1/20,4.5
+Delaware,2020,3/1/20,4.8
+Delaware,2020,4/1/20,13.4
+Delaware,2020,5/1/20,13.3
+Delaware,2020,6/1/20,12.9
+Delaware,2020,7/1/20,8.3
+Delaware,2020,8/1/20,7.9
+Delaware,2020,9/1/20,7.6
+Delaware,2020,10/1/20,5.7
+Delaware,2020,11/1/20,5.8
+Delaware,2020,12/1/20,5.9
+District of Columbia,2020,1/1/20,4.9
+District of Columbia,2020,2/1/20,5
+District of Columbia,2020,3/1/20,5.2
+District of Columbia,2020,4/1/20,11.1
+District of Columbia,2020,5/1/20,8.9
+District of Columbia,2020,6/1/20,8.9
+District of Columbia,2020,7/1/20,8.9
+District of Columbia,2020,8/1/20,8.8
+District of Columbia,2020,9/1/20,8.7
+District of Columbia,2020,10/1/20,8.8
+District of Columbia,2020,11/1/20,8.8
+District of Columbia,2020,12/1/20,8.8
+Florida,2020,1/1/20,3.3
+Florida,2020,2/1/20,3.3
+Florida,2020,3/1/20,4.9
+Florida,2020,4/1/20,14
+Florida,2020,5/1/20,14.2
+Florida,2020,6/1/20,11.6
+Florida,2020,7/1/20,11.5
+Florida,2020,8/1/20,7.9
+Florida,2020,9/1/20,7.2
+Florida,2020,10/1/20,5.8
+Florida,2020,11/1/20,5.4
+Florida,2020,12/1/20,5.1
+Georgia,2020,1/1/20,3.3
+Georgia,2020,2/1/20,3.5
+Georgia,2020,3/1/20,3.6
+Georgia,2020,4/1/20,12.5
+Georgia,2020,5/1/20,9.4
+Georgia,2020,6/1/20,8.4
+Georgia,2020,7/1/20,7.6
+Georgia,2020,8/1/20,7
+Georgia,2020,9/1/20,6.5
+Georgia,2020,10/1/20,5.9
+Georgia,2020,11/1/20,5.6
+Georgia,2020,12/1/20,5.3
+Hawaii,2020,1/1/20,2
+Hawaii,2020,2/1/20,2.1
+Hawaii,2020,3/1/20,2.1
+Hawaii,2020,4/1/20,21.9
+Hawaii,2020,5/1/20,21.9
+Hawaii,2020,6/1/20,14.1
+Hawaii,2020,7/1/20,14.1
+Hawaii,2020,8/1/20,14.1
+Hawaii,2020,9/1/20,14.8
+Hawaii,2020,10/1/20,14
+Hawaii,2020,11/1/20,10.3
+Hawaii,2020,12/1/20,10.3
+Idaho,2020,1/1/20,2.6
+Idaho,2020,2/1/20,2.6
+Idaho,2020,3/1/20,2.7
+Idaho,2020,4/1/20,11.6
+Idaho,2020,5/1/20,8.3
+Idaho,2020,6/1/20,7
+Idaho,2020,7/1/20,5.9
+Idaho,2020,8/1/20,4.9
+Idaho,2020,9/1/20,6
+Idaho,2020,10/1/20,4.8
+Idaho,2020,11/1/20,4.3
+Idaho,2020,12/1/20,3.8
+Illinois,2020,1/1/20,3.5
+Illinois,2020,2/1/20,3.6
+Illinois,2020,3/1/20,3.7
+Illinois,2020,4/1/20,16.5
+Illinois,2020,5/1/20,15.4
+Illinois,2020,6/1/20,14.2
+Illinois,2020,7/1/20,12
+Illinois,2020,8/1/20,11.1
+Illinois,2020,9/1/20,10.4
+Illinois,2020,10/1/20,8.1
+Illinois,2020,11/1/20,8.1
+Illinois,2020,12/1/20,8
+Indiana,2020,1/1/20,3.2
+Indiana,2020,2/1/20,3.2
+Indiana,2020,3/1/20,3.3
+Indiana,2020,4/1/20,16.9
+Indiana,2020,5/1/20,12
+Indiana,2020,6/1/20,10.1
+Indiana,2020,7/1/20,8.6
+Indiana,2020,8/1/20,7.3
+Indiana,2020,9/1/20,6.3
+Indiana,2020,10/1/20,5.6
+Indiana,2020,11/1/20,5
+Indiana,2020,12/1/20,4.6
+Iowa,2020,1/1/20,2.8
+Iowa,2020,2/1/20,2.9
+Iowa,2020,3/1/20,2.9
+Iowa,2020,4/1/20,11.1
+Iowa,2020,5/1/20,8.3
+Iowa,2020,6/1/20,7.1
+Iowa,2020,7/1/20,6.1
+Iowa,2020,8/1/20,5.3
+Iowa,2020,9/1/20,4.7
+Iowa,2020,10/1/20,4.2
+Iowa,2020,11/1/20,3.9
+Iowa,2020,12/1/20,3.7
+Kansas,2020,1/1/20,3.1
+Kansas,2020,2/1/20,3.2
+Kansas,2020,3/1/20,3.2
+Kansas,2020,4/1/20,12.6
+Kansas,2020,5/1/20,9
+Kansas,2020,6/1/20,7
+Kansas,2020,7/1/20,6.6
+Kansas,2020,8/1/20,6.2
+Kansas,2020,9/1/20,6.1
+Kansas,2020,10/1/20,4.7
+Kansas,2020,11/1/20,4.7
+Kansas,2020,12/1/20,4.7
+Kentucky,2020,1/1/20,4.1
+Kentucky,2020,2/1/20,4.2
+Kentucky,2020,3/1/20,4.2
+Kentucky,2020,4/1/20,16.9
+Kentucky,2020,5/1/20,10.9
+Kentucky,2020,6/1/20,5.7
+Kentucky,2020,7/1/20,5.6
+Kentucky,2020,8/1/20,5.5
+Kentucky,2020,9/1/20,5.5
+Kentucky,2020,10/1/20,5.5
+Kentucky,2020,11/1/20,5.6
+Kentucky,2020,12/1/20,5.6
+Louisiana,2020,1/1/20,5.1
+Louisiana,2020,2/1/20,5.2
+Louisiana,2020,3/1/20,5.3
+Louisiana,2020,4/1/20,13.1
+Louisiana,2020,5/1/20,13.1
+Louisiana,2020,6/1/20,9.4
+Louisiana,2020,7/1/20,9.1
+Louisiana,2020,8/1/20,8.2
+Louisiana,2020,9/1/20,8
+Louisiana,2020,10/1/20,7.9
+Louisiana,2020,11/1/20,7.9
+Louisiana,2020,12/1/20,7.9
+Maine,2020,1/1/20,3
+Maine,2020,2/1/20,3.1
+Maine,2020,3/1/20,3.1
+Maine,2020,4/1/20,9.1
+Maine,2020,5/1/20,8.3
+Maine,2020,6/1/20,5.3
+Maine,2020,7/1/20,8.8
+Maine,2020,8/1/20,5.2
+Maine,2020,9/1/20,4.9
+Maine,2020,10/1/20,4.8
+Maine,2020,11/1/20,4.9
+Maine,2020,12/1/20,5
+Maryland,2020,1/1/20,3.4
+Maryland,2020,2/1/20,3.5
+Maryland,2020,3/1/20,3.5
+Maryland,2020,4/1/20,9
+Maryland,2020,5/1/20,9
+Maryland,2020,6/1/20,8.6
+Maryland,2020,7/1/20,8.7
+Maryland,2020,8/1/20,8.6
+Maryland,2020,9/1/20,7
+Maryland,2020,10/1/20,6.8
+Maryland,2020,11/1/20,6.8
+Maryland,2020,12/1/20,6.8
+Massachusetts,2020,1/1/20,2.8
+Massachusetts,2020,2/1/20,2.8
+Massachusetts,2020,3/1/20,2.7
+Massachusetts,2020,4/1/20,16.4
+Massachusetts,2020,5/1/20,15.3
+Massachusetts,2020,6/1/20,14.8
+Massachusetts,2020,7/1/20,9.8
+Massachusetts,2020,8/1/20,9.3
+Massachusetts,2020,9/1/20,8.9
+Massachusetts,2020,10/1/20,8.5
+Massachusetts,2020,11/1/20,8.4
+Massachusetts,2020,12/1/20,8.4
+Michigan,2020,1/1/20,3.7
+Michigan,2020,2/1/20,3.7
+Michigan,2020,3/1/20,3.7
+Michigan,2020,4/1/20,23.6
+Michigan,2020,5/1/20,20.8
+Michigan,2020,6/1/20,14.1
+Michigan,2020,7/1/20,9
+Michigan,2020,8/1/20,8.5
+Michigan,2020,9/1/20,8.2
+Michigan,2020,10/1/20,8.1
+Michigan,2020,11/1/20,8.2
+Michigan,2020,12/1/20,8.2
+Minnesota,2020,1/1/20,3.2
+Minnesota,2020,2/1/20,3.3
+Minnesota,2020,3/1/20,3.5
+Minnesota,2020,4/1/20,9
+Minnesota,2020,5/1/20,11.3
+Minnesota,2020,6/1/20,8.9
+Minnesota,2020,7/1/20,7.6
+Minnesota,2020,8/1/20,6.6
+Minnesota,2020,9/1/20,5.8
+Minnesota,2020,10/1/20,5.3
+Minnesota,2020,11/1/20,5
+Minnesota,2020,12/1/20,4.7
+Mississippi,2020,1/1/20,5.6
+Mississippi,2020,2/1/20,5.8
+Mississippi,2020,3/1/20,6
+Mississippi,2020,4/1/20,15.7
+Mississippi,2020,5/1/20,11
+Mississippi,2020,6/1/20,9.6
+Mississippi,2020,7/1/20,8.5
+Mississippi,2020,8/1/20,7.8
+Mississippi,2020,9/1/20,7.2
+Mississippi,2020,10/1/20,6.9
+Mississippi,2020,11/1/20,6.7
+Mississippi,2020,12/1/20,6.6
+Missouri,2020,1/1/20,3.6
+Missouri,2020,2/1/20,3.6
+Missouri,2020,3/1/20,3.7
+Missouri,2020,4/1/20,12.5
+Missouri,2020,5/1/20,9.6
+Missouri,2020,6/1/20,8.1
+Missouri,2020,7/1/20,6.8
+Missouri,2020,8/1/20,6
+Missouri,2020,9/1/20,5.4
+Missouri,2020,10/1/20,5
+Missouri,2020,11/1/20,4.7
+Missouri,2020,12/1/20,4.4
+Montana,2020,1/1/20,3.7
+Montana,2020,2/1/20,3.7
+Montana,2020,3/1/20,3.8
+Montana,2020,4/1/20,11.9
+Montana,2020,5/1/20,9.1
+Montana,2020,6/1/20,7.6
+Montana,2020,7/1/20,6.6
+Montana,2020,8/1/20,5.8
+Montana,2020,9/1/20,5.2
+Montana,2020,10/1/20,4.7
+Montana,2020,11/1/20,4.5
+Montana,2020,12/1/20,4.2
+Nebraska,2020,1/1/20,2.9
+Nebraska,2020,2/1/20,3
+Nebraska,2020,3/1/20,3.1
+Nebraska,2020,4/1/20,7.4
+Nebraska,2020,5/1/20,5.4
+Nebraska,2020,6/1/20,6.6
+Nebraska,2020,7/1/20,4.4
+Nebraska,2020,8/1/20,4
+Nebraska,2020,9/1/20,3.8
+Nebraska,2020,10/1/20,3.6
+Nebraska,2020,11/1/20,3.4
+Nebraska,2020,12/1/20,3.4
+Nevada,2020,1/1/20,3.7
+Nevada,2020,2/1/20,3.7
+Nevada,2020,3/1/20,6.4
+Nevada,2020,4/1/20,29.5
+Nevada,2020,5/1/20,24.5
+Nevada,2020,6/1/20,15.4
+Nevada,2020,7/1/20,16.6
+Nevada,2020,8/1/20,14.5
+Nevada,2020,9/1/20,13
+Nevada,2020,10/1/20,12
+Nevada,2020,11/1/20,8.7
+Nevada,2020,12/1/20,8.2
+New Hampshire,2020,1/1/20,2.6
+New Hampshire,2020,2/1/20,2.6
+New Hampshire,2020,3/1/20,2.7
+New Hampshire,2020,4/1/20,16
+New Hampshire,2020,5/1/20,13.4
+New Hampshire,2020,6/1/20,10.3
+New Hampshire,2020,7/1/20,8.1
+New Hampshire,2020,8/1/20,6.6
+New Hampshire,2020,9/1/20,5.5
+New Hampshire,2020,10/1/20,4.7
+New Hampshire,2020,11/1/20,4.2
+New Hampshire,2020,12/1/20,3.8
+New Jersey,2020,1/1/20,3.7
+New Jersey,2020,2/1/20,3.7
+New Jersey,2020,3/1/20,3.8
+New Jersey,2020,4/1/20,16.6
+New Jersey,2020,5/1/20,16.5
+New Jersey,2020,6/1/20,16.3
+New Jersey,2020,7/1/20,13.1
+New Jersey,2020,8/1/20,11
+New Jersey,2020,9/1/20,7.8
+New Jersey,2020,10/1/20,7.7
+New Jersey,2020,11/1/20,10.2
+New Jersey,2020,12/1/20,7.7
+New Mexico,2020,1/1/20,5.1
+New Mexico,2020,2/1/20,5.3
+New Mexico,2020,3/1/20,5.4
+New Mexico,2020,4/1/20,10
+New Mexico,2020,5/1/20,10
+New Mexico,2020,6/1/20,9.8
+New Mexico,2020,7/1/20,12.5
+New Mexico,2020,8/1/20,9.3
+New Mexico,2020,9/1/20,8.6
+New Mexico,2020,10/1/20,8.5
+New Mexico,2020,11/1/20,8.5
+New Mexico,2020,12/1/20,8.6
+New York,2020,1/1/20,3.8
+New York,2020,2/1/20,3.9
+New York,2020,3/1/20,3.9
+New York,2020,4/1/20,16.2
+New York,2020,5/1/20,15.7
+New York,2020,6/1/20,15
+New York,2020,7/1/20,14.7
+New York,2020,8/1/20,11.7
+New York,2020,9/1/20,10
+New York,2020,10/1/20,8.7
+New York,2020,11/1/20,8.7
+New York,2020,12/1/20,8.7
+North Carolina,2020,1/1/20,3.5
+North Carolina,2020,2/1/20,3.6
+North Carolina,2020,3/1/20,3.9
+North Carolina,2020,4/1/20,13.5
+North Carolina,2020,5/1/20,13.5
+North Carolina,2020,6/1/20,8.8
+North Carolina,2020,7/1/20,8.8
+North Carolina,2020,8/1/20,6.8
+North Carolina,2020,9/1/20,7.3
+North Carolina,2020,10/1/20,6.8
+North Carolina,2020,11/1/20,6.4
+North Carolina,2020,12/1/20,6.1
+North Dakota,2020,1/1/20,2.2
+North Dakota,2020,2/1/20,2.3
+North Dakota,2020,3/1/20,2.3
+North Dakota,2020,4/1/20,8.7
+North Dakota,2020,5/1/20,8.7
+North Dakota,2020,6/1/20,6.2
+North Dakota,2020,7/1/20,6.2
+North Dakota,2020,8/1/20,6.1
+North Dakota,2020,9/1/20,4.7
+North Dakota,2020,10/1/20,4.7
+North Dakota,2020,11/1/20,4.7
+North Dakota,2020,12/1/20,4.7
+Ohio,2020,1/1/20,4.5
+Ohio,2020,2/1/20,4.7
+Ohio,2020,3/1/20,4.9
+Ohio,2020,4/1/20,16.4
+Ohio,2020,5/1/20,14.9
+Ohio,2020,6/1/20,10.3
+Ohio,2020,7/1/20,9.3
+Ohio,2020,8/1/20,9
+Ohio,2020,9/1/20,7.4
+Ohio,2020,10/1/20,5.6
+Ohio,2020,11/1/20,5.6
+Ohio,2020,12/1/20,5.6
+Oklahoma,2020,1/1/20,3.1
+Oklahoma,2020,2/1/20,3.1
+Oklahoma,2020,3/1/20,3.2
+Oklahoma,2020,4/1/20,13
+Oklahoma,2020,5/1/20,9.5
+Oklahoma,2020,6/1/20,8.2
+Oklahoma,2020,7/1/20,7.2
+Oklahoma,2020,8/1/20,6.3
+Oklahoma,2020,9/1/20,5.7
+Oklahoma,2020,10/1/20,5.2
+Oklahoma,2020,11/1/20,4.8
+Oklahoma,2020,12/1/20,4.5
+Oregon,2020,1/1/20,3.4
+Oregon,2020,2/1/20,3.5
+Oregon,2020,3/1/20,3.6
+Oregon,2020,4/1/20,13.2
+Oregon,2020,5/1/20,11.7
+Oregon,2020,6/1/20,10.3
+Oregon,2020,7/1/20,9.6
+Oregon,2020,8/1/20,8.4
+Oregon,2020,9/1/20,7.5
+Oregon,2020,10/1/20,7
+Oregon,2020,11/1/20,6.6
+Oregon,2020,12/1/20,6.3
+Pennsylvania,2020,1/1/20,4.8
+Pennsylvania,2020,2/1/20,5
+Pennsylvania,2020,3/1/20,5.1
+Pennsylvania,2020,4/1/20,16.2
+Pennsylvania,2020,5/1/20,13.5
+Pennsylvania,2020,6/1/20,13.3
+Pennsylvania,2020,7/1/20,13
+Pennsylvania,2020,8/1/20,10.2
+Pennsylvania,2020,9/1/20,7.1
+Pennsylvania,2020,10/1/20,7
+Pennsylvania,2020,11/1/20,7.1
+Pennsylvania,2020,12/1/20,7.1
+Rhode Island,2020,1/1/20,3.8
+Rhode Island,2020,2/1/20,4
+Rhode Island,2020,3/1/20,4
+Rhode Island,2020,4/1/20,17.4
+Rhode Island,2020,5/1/20,12.9
+Rhode Island,2020,6/1/20,10.9
+Rhode Island,2020,7/1/20,14
+Rhode Island,2020,8/1/20,12.6
+Rhode Island,2020,9/1/20,10.9
+Rhode Island,2020,10/1/20,7.3
+Rhode Island,2020,11/1/20,7.9
+Rhode Island,2020,12/1/20,7.9
+South Carolina,2020,1/1/20,2.6
+South Carolina,2020,2/1/20,2.8
+South Carolina,2020,3/1/20,3
+South Carolina,2020,4/1/20,11.5
+South Carolina,2020,5/1/20,11.5
+South Carolina,2020,6/1/20,7.7
+South Carolina,2020,7/1/20,7.6
+South Carolina,2020,8/1/20,5.4
+South Carolina,2020,9/1/20,5.4
+South Carolina,2020,10/1/20,5.4
+South Carolina,2020,11/1/20,5.6
+South Carolina,2020,12/1/20,5.6
+South Dakota,2020,1/1/20,2.9
+South Dakota,2020,2/1/20,2.9
+South Dakota,2020,3/1/20,2.9
+South Dakota,2020,4/1/20,9.2
+South Dakota,2020,5/1/20,7
+South Dakota,2020,6/1/20,6.1
+South Dakota,2020,7/1/20,5.4
+South Dakota,2020,8/1/20,4.7
+South Dakota,2020,9/1/20,4
+South Dakota,2020,10/1/20,3.7
+South Dakota,2020,11/1/20,3.6
+South Dakota,2020,12/1/20,3.3
+Tennessee,2020,1/1/20,3.7
+Tennessee,2020,2/1/20,3.9
+Tennessee,2020,3/1/20,4
+Tennessee,2020,4/1/20,15.8
+Tennessee,2020,5/1/20,9.6
+Tennessee,2020,6/1/20,9.3
+Tennessee,2020,7/1/20,8.9
+Tennessee,2020,8/1/20,8.1
+Tennessee,2020,9/1/20,7.9
+Tennessee,2020,10/1/20,7.8
+Tennessee,2020,11/1/20,5.6
+Tennessee,2020,12/1/20,5.6
+Texas,2020,1/1/20,3.6
+Texas,2020,2/1/20,3.7
+Texas,2020,3/1/20,4.9
+Texas,2020,4/1/20,12.9
+Texas,2020,5/1/20,11.6
+Texas,2020,6/1/20,10.2
+Texas,2020,7/1/20,9.3
+Texas,2020,8/1/20,6.9
+Texas,2020,9/1/20,7.9
+Texas,2020,10/1/20,7.3
+Texas,2020,11/1/20,7.2
+Texas,2020,12/1/20,6.9
+Utah,2020,1/1/20,2.4
+Utah,2020,2/1/20,2.5
+Utah,2020,3/1/20,2.5
+Utah,2020,4/1/20,10.1
+Utah,2020,5/1/20,7.6
+Utah,2020,6/1/20,6.3
+Utah,2020,7/1/20,5.4
+Utah,2020,8/1/20,4.8
+Utah,2020,9/1/20,4.2
+Utah,2020,10/1/20,3.8
+Utah,2020,11/1/20,3.5
+Utah,2020,12/1/20,3.3
+Vermont,2020,1/1/20,2.5
+Vermont,2020,2/1/20,2.5
+Vermont,2020,3/1/20,2.6
+Vermont,2020,4/1/20,14.8
+Vermont,2020,5/1/20,9.3
+Vermont,2020,6/1/20,7.7
+Vermont,2020,7/1/20,6.4
+Vermont,2020,8/1/20,5.4
+Vermont,2020,9/1/20,4.6
+Vermont,2020,10/1/20,4
+Vermont,2020,11/1/20,3.7
+Vermont,2020,12/1/20,3.5
+Virginia,2020,1/1/20,2.5
+Virginia,2020,2/1/20,2.5
+Virginia,2020,3/1/20,2.6
+Virginia,2020,4/1/20,11.3
+Virginia,2020,5/1/20,8.5
+Virginia,2020,6/1/20,8.8
+Virginia,2020,7/1/20,7.9
+Virginia,2020,8/1/20,7
+Virginia,2020,9/1/20,6.6
+Virginia,2020,10/1/20,6.1
+Virginia,2020,11/1/20,5.8
+Virginia,2020,12/1/20,5.6
+Washington,2020,1/1/20,4
+Washington,2020,2/1/20,4.1
+Washington,2020,3/1/20,5.3
+Washington,2020,4/1/20,16.3
+Washington,2020,5/1/20,12.5
+Washington,2020,6/1/20,10.8
+Washington,2020,7/1/20,10.8
+Washington,2020,8/1/20,9.1
+Washington,2020,9/1/20,8
+Washington,2020,10/1/20,7
+Washington,2020,11/1/20,6.7
+Washington,2020,12/1/20,6.3
+West Virginia,2020,1/1/20,5
+West Virginia,2020,2/1/20,5.1
+West Virginia,2020,3/1/20,5.3
+West Virginia,2020,4/1/20,15.6
+West Virginia,2020,5/1/20,11.9
+West Virginia,2020,6/1/20,10.5
+West Virginia,2020,7/1/20,9.4
+West Virginia,2020,8/1/20,8.5
+West Virginia,2020,9/1/20,7.9
+West Virginia,2020,10/1/20,7.4
+West Virginia,2020,11/1/20,7
+West Virginia,2020,12/1/20,6.7
+Wisconsin,2020,1/1/20,3.3
+Wisconsin,2020,2/1/20,3.3
+Wisconsin,2020,3/1/20,3.2
+Wisconsin,2020,4/1/20,14.8
+Wisconsin,2020,5/1/20,10.4
+Wisconsin,2020,6/1/20,8.6
+Wisconsin,2020,7/1/20,7.2
+Wisconsin,2020,8/1/20,6.1
+Wisconsin,2020,9/1/20,5.2
+Wisconsin,2020,10/1/20,4.8
+Wisconsin,2020,11/1/20,4.4
+Wisconsin,2020,12/1/20,4
+Wyoming,2020,1/1/20,4.4
+Wyoming,2020,2/1/20,4.8
+Wyoming,2020,3/1/20,5.1
+Wyoming,2020,4/1/20,5.5
+Wyoming,2020,5/1/20,8.5
+Wyoming,2020,6/1/20,7.4
+Wyoming,2020,7/1/20,6.8
+Wyoming,2020,8/1/20,6.2
+Wyoming,2020,9/1/20,5.7
+Wyoming,2020,10/1/20,5.4
+Wyoming,2020,11/1/20,5.3
+Wyoming,2020,12/1/20,5.2
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
