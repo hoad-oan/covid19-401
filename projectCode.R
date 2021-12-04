@@ -76,5 +76,11 @@ write.csv(x1, "stringencyIndex.csv")
 #https://www.census.gov/data/tables/time-series/demo/popest/2010s-state-total.html
 #Created an excel sheet with only the data from 2020 population
 
+# Other comments ----------------------------------------------------------
+
+# To make sure the month and state data matches between different datasets, I edited the state names so if they
+#were in abbreviations, they would appear in full name, and the months will be formatted to Month-2020 in Excel.
+
+
 
 
