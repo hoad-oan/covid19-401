@@ -8,3 +8,5 @@ Coding for Social Welfare data is named: Social Welfare Clearn.R
 Coding for General COVID statistics and restrictions related data is named: projectCode.R
 
 Coding for Economics related data is named: dataset modify.Rmd
+
+Our Tableau with all merged datasets and storyboard of our key findings is named COVID trend.twbx
