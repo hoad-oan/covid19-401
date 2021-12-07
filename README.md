@@ -10,3 +10,5 @@ Coding for General COVID statistics and restrictions related data is named: proj
 Coding for Economics related data is named: dataset modify.Rmd
 
 Our Tableau with all merged datasets and storyboard of our key findings is named COVID trend.twbx
+
+The link to our Tableau Public storyboard: https://public.tableau.com/app/profile/hoa.doan/viz/COVIDtrend_16388416425510/Covidtrend?publish=yes
