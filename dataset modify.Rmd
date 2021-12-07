@@ -1,0 +1,115 @@
+---
+title: "ISAProject"
+author: "Bach Phung"
+date: "11/30/2021"
+output: html_document
+---
+
+# Income data
+
+```{r}
+library(tidyverse)
+```
+
+```{r}
+data_inc <- read.csv("SQINC1__ALL_AREAS_1948_2020.csv")
+glimpse(data_inc)
+```
+
+```{r}
+data_inc <- data_inc[data_inc[,7] == "Per capita personal income (dollars) 2/", ]
+inc <- data_inc %>% 
+  select(c(2, 'X2019.Q3', 'X2019.Q4', 'X2020.Q1', 'X2020.Q2', 'X2020.Q3', 'X2020.Q4'))
+
+```
+
+```{r}
+inc2 <- inc %>% 
+  pivot_longer(!GeoName, names_to = "Quarter", values_to = "per_Capita_Person_Income") 
+inc2$Quarter <- substring(inc2$Quarter, 2,)
+inc2
+```
+
+```{r}
+write.csv(inc2,"C:\\Users\\phung\\Documents\\ISA 401\\Project\\Income Indicator.csv", row.names = FALSE)
+```
+
+
+# gdp data
+
+```{r}
+data_gdp <- read.csv("SQGDP1__ALL_AREAS_2005_2020.csv")
+
+```
+
+```{r}
+data_gdp <- data_gdp[data_gdp[,7] == "Current-dollar GDP (millions of current dollars)", ]
+gdp <- data_gdp %>% 
+  select(c(2, 'X2019.Q3', 'X2019.Q4', 'X2020.Q1', 'X2020.Q2', 'X2020.Q3', 'X2020.Q4'))
+
+```
+
+```{r}
+gdp2 <- gdp %>% 
+  pivot_longer(!GeoName, names_to = "Quarter", values_to = "curDollarGDP") 
+gdp2$Quarter <- substring(gdp2$Quarter, 2,)
+gdp2
+```
+
+
+```{r}
+write.csv(gdp2,"C:\\Users\\phung\\Documents\\ISA 401\\Project\\cur GDP Indicator.csv", row.names = FALSE)
+```
+
+#Snap data person
+
+```{r}
+snap_data <- read.csv("Cost Per Person .csv")
+
+```
+
+```{r}
+library(zoo)
+library(lubridate)
+library(stringi)
+colnames(snap_data)[1] <- "State"
+snap <- snap_data %>% 
+  select(!c("X","X.1")) %>% 
+  pivot_longer(!State, names_to = "Month", values_to = "SNAP_Cost_Person") %>% 
+  mutate(Month = as.Date(as.yearmon(Month, "%b.%Y")),
+         Quarter = stri_sub_replace(as.character(quarter(Month, with_year = TRUE)), 6, 5, value =  "Q")) 
+
+snap$SNAP_Cost_Person <- substring(snap$SNAP_Cost_Person, 3,)
+snap
+```
+
+```{r}
+write.csv(snap,"C:\\Users\\phung\\Documents\\ISA 401\\Project\\SNAP_Person.csv", row.names = FALSE)
+```
+
+
+#SNAP household
+
+```{r}
+snap_data2 <- read.csv("Cost per Household.csv")
+
+```
+
+```{r}
+library(zoo)
+library(lubridate)
+library(stringi)
+colnames(snap_data2)[1] <- "State"
+snap2 <- snap_data2 %>% 
+  select(!c("X","X.1")) %>% 
+  pivot_longer(!State, names_to = "Month", values_to = "SNAP_Cost_Household") %>% 
+  mutate(Month = as.Date(as.yearmon(Month, "%b.%Y")),
+         Quarter = stri_sub_replace(as.character(quarter(Month, with_year = TRUE)), 6, 5, value =  "Q")) 
+
+snap2$SNAP_Cost_Household <- substring(snap2$SNAP_Cost_Household, 3,)
+snap2
+```
+
+```{r}
+write.csv(snap,"C:\\Users\\phung\\Documents\\ISA 401\\Project\\SNAP_Household.csv", row.names = FALSE)
+```
